@@ -16,6 +16,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kacper/myvenv" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -52,6 +53,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2518" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603559359962">
+      <screen x="1920" y="38" width="1680" height="1010" />
+    </state>
+    <state x="2518" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.38.1680.1010@1920.38.1680.1010" timestamp="1603559359962" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1603442089571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -72,5 +77,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.38.1680.1010@0.0.1920.1040" timestamp="1603471371007" />
+    <state x="2261" y="188" key="SettingsEditor" timestamp="1603555792452">
+      <screen x="1920" y="38" width="1680" height="1010" />
+    </state>
+    <state x="2261" y="188" key="SettingsEditor/0.0.1920.1040/1920.38.1680.1010@1920.38.1680.1010" timestamp="1603555792452" />
   </component>
 </project>

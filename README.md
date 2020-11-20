@@ -29,7 +29,9 @@ Mail
 
 ![Mail](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Mail.PNG)
 
-potwierdzenia
+Potwiordzenie
+
+![potwierdzenie](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Reset_confirm.PNG)
 
 Console
 

@@ -38,3 +38,11 @@ Console
 ![Konsola]
 
 ![Konsola](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Console.PNG)
+
+
+LAB3
+
+![Facebook](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab2/lab2_aplikacje_internetowe/Screen/facebook.PNG)
+
+
+![Github](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab2/lab2_aplikacje_internetowe/Screen/github.PNG)

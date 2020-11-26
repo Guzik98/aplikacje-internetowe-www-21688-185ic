@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'social_django',
     'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
@@ -50,6 +51,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'social_django.middleware.SocialAuthExceptionMiddleware',
 ]
 
 ROOT_URLCONF = 'lab2_aplikacje_internetowe.urls'
@@ -65,10 +67,20 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'social_django.context_processors.backends',
+                'social_django.context_processors.login_redirect',
             ],
         },
     },
 ]
+
+AUTHENTICATION_BACKENDS = (
+    'social_core.backends.facebook.FacebookOAuth2',
+    'social_core.backends.twitter.TwitterOAuth',
+    'social_core.backends.github.GithubOAuth2',
+
+    'django.contrib.auth.backends.ModelBackend',
+)
 
 WSGI_APPLICATION = 'lab2_aplikacje_internetowe.wsgi.application'
 
@@ -82,6 +94,12 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
+SOCIAL_AUTH_FACEBOOK_KEY = '419225479251169'  # App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = 'b5ad5faca92d55ac31f798561b4a95c8'  # App Secret
+
+SOCIAL_AUTH_GITHUB_KEY = 'Iv1.03fa88e0a833529c'
+SOCIAL_AUTH_GITHUB_SECRET = '3d75b59c0b155479f367712a010e86dcd20f327f' 
 
 
 # Password validation
@@ -125,11 +143,11 @@ STATIC_URL = '/static/'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 LOGIN_REDIRECT_URL = 'blog-home'
-LOFIN_URL = 'login'
+LOGIN_URL = 'login'
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 
 EMAIL_HOST_USER = 'guzikkacper58@gmail.com'
-EMAIL_HOST_PASSWORD = 'wiedzmin2'
+EMAIL_HOST_PASSWORD = '1234'

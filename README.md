@@ -1,4 +1,6 @@
-# Rejestracja użytkowników
+# Rejestracja użytkowników&Różne sposoby uwierzytelniania
+
+LAB2 i LAB3 
 
 
 Strona główna:

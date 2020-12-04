@@ -1,5 +1,4 @@
-# Rejestracja użytkowników&Różne sposoby uwierzytelniania
-
+# zezwolenia,Swagger,serializery
 Lab4
 
 

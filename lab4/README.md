@@ -1,4 +1,4 @@
-# zezwolenia,Swagger,serializery
+# zezwolenia,serializery
 Lab4
 
 

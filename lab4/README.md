@@ -9,9 +9,9 @@ Lab4
 
 User List:
 
-![User List](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Register.PNG)
+![User List](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab4/lab4/SS/List.PNG)
 
 Serializacja:
 
-![Serializacja](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Login.PNG)
+![Serializacja](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab4/lab4/SS/Serializer.PNG)
 

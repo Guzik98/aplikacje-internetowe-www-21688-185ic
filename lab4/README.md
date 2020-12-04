@@ -8,7 +8,7 @@ Lab4
 
 User List:
 
-![User List](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab4/lab4/SS/List.PNG)
+![User List](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab4/lab4/SS/users.PNG)
 
 Serializacja:
 

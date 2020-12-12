@@ -1,3 +1,18 @@
 # aplikacje-internetowe-www-21688-185ic
 
-![Strona Główna](https://github.com/Guzik98/my-first-blog/blob/lab2/lab2_aplikacje_internetowe/Screen/Strona_g%C5%82owna.PNG)
+Strona
+
+![Strona Główna](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab5/ss/Przechwytywanie.PNG)
+
+
+Po wyszukaniu informacji
+
+![Po wyszukaniu](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab5/ss/2.PNG)
+
+plik views.py
+
+![Plik views.py](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab5/ss/view.PNG)
+
+terminal
+
+![Termianl](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab5/ss/t.PNG)

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Title>Apka pogodowa</Title>
+    <style>
+        #main {
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <body>
+        <div id="main">
+            <h1>Apka pogodawa</h1>
+            <form method="GET">
+                <div>
+                    <label for="city"></label>
+                    <input type="text" id="city" value="{{ request.GET.city }}" placeholder="City..." name="city" />
+                </div>
+                <input type="submit" value="Submit" />
+            </form>
+            {% if result %}
+            <h3>{{ result.region }}</h3>
+            <h3>{{ result.dayhour }}</h3>
+            <h3>{{ result.temp_now }}° C</h3>
+            <h3>{{ result.weather_now }}</h3>
+            {% endif %}
+        </div>
+    </body>
+
+
+</html>

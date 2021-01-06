@@ -25,7 +25,7 @@ SECRET_KEY = 'lqktjyg#nh8u)@6fi#u%9xse7b07g9+9mr_qz_)+k+eekj&d-r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kacper.pythonanywhere.com', '127.0.0.1' ]
+ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1','pythonanywhere.com']
 
 
 # Application definition
@@ -109,7 +109,7 @@ SOCIAL_AUTH_FACEBOOK_KEY = '419225479251169'  # App ID
 SOCIAL_AUTH_FACEBOOK_SECRET = 'b5ad5faca92d55ac31f798561b4a95c8'  # App Secret
 
 SOCIAL_AUTH_GITHUB_KEY = 'Iv1.03fa88e0a833529c'
-SOCIAL_AUTH_GITHUB_SECRET = '3d75b59c0b155479f367712a010e86dcd20f327f' 
+SOCIAL_AUTH_GITHUB_SECRET = 'bdd01d685a51ad7239e681c8d92c1cf3d419563c' 
 
 
 # Password validation

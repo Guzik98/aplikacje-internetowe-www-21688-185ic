@@ -20,7 +20,7 @@ Frontend: incomplete
 
 Frontend: edit
 
-![3](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10/ss/edytowanie).PNG
+![3](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10.2/ss/edytowanie.PNG).PNG
 
 Backend: todo list
 

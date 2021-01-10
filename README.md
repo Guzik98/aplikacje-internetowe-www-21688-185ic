@@ -12,11 +12,11 @@ Proxy
 
 Frontend: complete
 
-![1](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10/ss/frontend1.PNG)
+![1](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10.2/ss/frontend1.PNG)
 
 Frontend: incomplete
 
-![2](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10/ss/frontend2.PNG)
+![2](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10.2/ss/frontend2.PNG)
 
 Frontend: edit
 

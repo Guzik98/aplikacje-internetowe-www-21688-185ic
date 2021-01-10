@@ -24,9 +24,9 @@ Frontend: edit
 
 Backend: todo list
 
-![4](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10/ss/backend1.PNG)
+![4](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10.2/ss/backend1.PNG)
 
 Backend: widok admina
 
-![5](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10/ss/backend2.PNG)
+![5](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab10.2/ss/backend2.PNG)
 

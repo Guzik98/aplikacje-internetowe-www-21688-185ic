@@ -17,6 +17,6 @@ Backend
 
 po ID
 
-![4](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab9.2/ss/api3.PNG
+![4](https://github.com/Guzik98/aplikacje-internetowe-www-21688-185ic/blob/lab9.2/ss/api3.PNG)
 
 
